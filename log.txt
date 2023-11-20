@@ -1,0 +1,30 @@
+[Error] [2023-11-19 19:37:32] failed to access source directory "example_src_test": source "example_src_test" does not exist
+[Info] [2023-11-20 08:10:30] Created destination directory "dodo"
+[Error] [2023-11-20 08:10:30] failed to create destination file "dodo": open dodo: is a directory
+[Error] [2023-11-20 08:10:30] failed to copy file "Makefile": open dodo: is a directory
+[Error] [2023-11-20 08:10:30] failed to copy directory: open dodo: is a directory
+[Error] [2023-11-20 08:12:36] source "Makefile" is not a directory: source "Makefile" is not a directory
+[Info] [2023-11-20 08:18:31] Created destination directory "example_dest"
+[Info] [2023-11-20 08:18:31] Created directory "example_dest"
+[Info] [2023-11-20 08:18:31] Created directory "example_dest/folder_one"
+[Info] [2023-11-20 08:18:31] Copied file "example_src/folder_one/file_folder_one.txt"
+[Info] [2023-11-20 08:18:31] Copied file "example_src/folder_one/file_two_folder_one.txt"
+[Info] [2023-11-20 08:18:31] Created directory "example_dest/folder_two"
+[Info] [2023-11-20 08:18:31] Copied file "example_src/folder_two/file_one_folder_two.txt"
+[Info] [2023-11-20 08:18:31] Copied file "example_src/folder_two/file_two_folder_two.txt"
+[Info] [2023-11-20 08:33:11] Created destination directory "example_dest"
+[Info] [2023-11-20 08:33:11] Created directory "example_dest"
+[Info] [2023-11-20 08:33:11] Created directory "example_dest/folder_one"
+[Info] [2023-11-20 08:33:11] Copied file "example_src/folder_one/file_folder_one.txt"
+[Info] [2023-11-20 08:33:11] Copied file "example_src/folder_one/file_two_folder_one.txt"
+[Info] [2023-11-20 08:33:11] Created directory "example_dest/folder_two"
+[Info] [2023-11-20 08:33:11] Copied file "example_src/folder_two/file_one_folder_two.txt"
+[Info] [2023-11-20 08:33:11] Copied file "example_src/folder_two/file_two_folder_two.txt"
+[Info] [2023-11-20 08:51:06] Created destination directory "example_dest"
+[Info] [2023-11-20 08:51:06] Created directory "example_dest"
+[Info] [2023-11-20 08:51:06] Created directory "example_dest/folder_one"
+[Info] [2023-11-20 08:51:06] Copied file "example_src/folder_one/file_folder_one.txt"
+[Info] [2023-11-20 08:51:06] Copied file "example_src/folder_one/file_two_folder_one.txt"
+[Info] [2023-11-20 08:51:06] Created directory "example_dest/folder_two"
+[Info] [2023-11-20 08:51:06] Copied file "example_src/folder_two/file_one_folder_two.txt"
+[Info] [2023-11-20 08:51:06] Copied file "example_src/folder_two/file_two_folder_two.txt"
